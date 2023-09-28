@@ -2,3 +2,4 @@ moj prvy riadok
 druhy riadok
 test
 este jdna zmena
+posledna zmena pred zvonenim
